@@ -15,3 +15,10 @@ for i in range(4):
         deck.append(f"{value}{suits[i]}")
 
 print(deck)
+### at this point, commit to github under Simulation
+
+# shuffle the deck - lookup Fisher Yates Shuffle - implement it in Python w/ your deck
+
+# print the shuffled deck
+### at this point, commit a second time to github, same file...
+# turn in ##two histories## on Google Classroom
